@@ -1,0 +1,26 @@
+﻿! ------------------------------------------------------------------------------
+!                          ROFI THEME - MATT DOBSON
+! ------------------------------------------------------------------------------
+
+!  State:           background     border          separator
+!rofi.color-window: argb:f2171717, #535c5c,         #a4a4a4
+rofi.color-window: argb:f2151515, #6c6c6c,         #a4a4a4
+!  State:              bg          fg          bgalt       hlbg           hlfg
+rofi.color-normal: argb:00171717, #a4a4a4, argb:00535c5c, argb:00171717, #535c5c
+rofi.color-urgent: argb:00171717, #cc6666, argb:e54b5160, argb:00171717, #535c5c
+rofi.color-active: argb:00171717, #7b6064, argb:e44b5160, argb:00171717, #535c5c
+!rofi.width: 450
+!rofi.lines: 20
+!rofi.font: Pilcrow 8
+rofi.bw: 1
+!rofi.padding: 50
+rofi.padding: 35
+rofi.line-margin: 5
+rofi.eh: 1
+rofi.sidebar-mode: true
+rofi.separator-style: none
+rofi.hide-scrollbar: true
+rofi.show-icons: false
+rofi.location: 0
+rofi.modi: drun,window
+!rofi.modi: window,run,drun

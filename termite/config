@@ -1,0 +1,48 @@
+[options]
+font = lucy tewi 9
+mouse_autohide = true
+allow_bold = false
+
+[colors]
+
+# special
+highlight       = #2f2f2f
+foreground      = #919294
+foreground_bold = #989898
+cursor          = #566e6b
+cursor_foreground = #ffffff
+background      = #1a1a1a
+
+# black
+color0  = #222221
+color8  = #4a4a4a
+
+# red
+color1  = #996140
+color9  = #996140
+
+# green
+color2  = #799c6a
+color10 = #799c6a
+
+# yellow
+color3  = #9d8554
+color11 = #9d8554
+
+# blue
+color4  = #5f656a
+color12 = #5f656a
+
+# magenta
+color5  = #7b6064
+color13 = #7b6064
+
+# cyan
+color6  = #566e6b
+color14 = #566e6b
+
+# white
+color7  = #b0b0a2
+color15 = #d3d3cb
+
+vim:ft=dosini
